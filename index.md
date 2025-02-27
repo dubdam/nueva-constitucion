@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Bienvenidos
+# Bienvenidos 
 
 A bold vision for liberty through governance.
 

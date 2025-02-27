@@ -1,0 +1,5 @@
+title: Libertarian Constitutional Reform
+description: A collaborative project to reform governance for liberty.
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://yourusername.github.io" # Replace with your domain later
+theme: minima # Default Jekyll theme (we’ll override with Tailwind)

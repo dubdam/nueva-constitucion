@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body class="flex flex-col min-h-screen">
+  {% include header.html %}
+  <main class="flex-grow p-4">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <!-- Hypothesis.js for annotations -->
+  <script src="https://hypothes.is/embed.js" async></script>
+</body>
+</html>

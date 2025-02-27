@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Welcome to the Reform Project
+# Bienvenidos
 
 A bold vision for liberty through governance.
 

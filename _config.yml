@@ -1,5 +1,7 @@
 title: Libertarian Constitutional Reform
 description: A collaborative project to reform governance for liberty.
-baseurl: "/nueva-constitucion"  
-url: "https://dubdam.github.io" 
+baseurl: "/nueva-constitucion"
+url: "https://dubdam.github.io"
 theme: minima
+plugins:
+  - jekyll-tailwind  # Optional if you add this manually
